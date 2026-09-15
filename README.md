@@ -16,3 +16,5 @@ PNG charts in `figures/` (EDA, ROC, residuals, RFM, time series, attrition, etc.
 - `13_attrition_eda.ipynb`
 
 Learning / portfolio practice.
+
+Last reviewed: 2026-09.
